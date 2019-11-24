@@ -1,0 +1,6 @@
+{
+  "name": "smthdiff/docker-server",
+  "type": "symfony-pack",
+  "license": "MIT",
+  "description": "A Docker Server with multiple options"
+}
